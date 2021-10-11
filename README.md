@@ -2,7 +2,7 @@
 Disentangling the latent space learned by a VAE has been subject to a lot of research in recent years [1,2].
 This repository provides a simple tensorflow implementation of a Variational Autoencoder and the objective function proposed by [1]:
 
-![](Equation.jpg)
+![](equation.jpg)
 
 Experiments showed that this modification to the objective function improves the tradeoff
 between reconstruction quality and disentanglement.
