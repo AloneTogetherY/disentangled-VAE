@@ -13,7 +13,7 @@ between reconstruction quality and disentanglement.
 3. The Dsprites dataset used in the repository can be found [here](https://github.com/deepmind/dsprites-dataset/blob/master/dsprites_ndarray_co1sh3sc6or40x32y32_64x64.npz):
 
 ## Demo
-
+Trained this model for 1200 epochs. <br>
 <kbd><img src="https://github.com/Yoan-D/DisentangledVAE/blob/e17868f73fcdb2bac281daa2d141b774bd0e1323/demo.gif"/></kbd><br />
 
 ## References
